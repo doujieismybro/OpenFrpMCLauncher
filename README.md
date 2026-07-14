@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="img/icon.png" alt="ZGIT-OpenFrp-MC Logo" width="120">
   <h1>ZGIT-OpenFrp-MC</h1>
 </div>
 # ZGIT-OpenFrp-MC - Minecraft Launcher
